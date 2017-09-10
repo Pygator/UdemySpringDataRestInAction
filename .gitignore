@@ -1,0 +1,13 @@
+# ide files
+.project
+*.iml
+.idea
+.metadata
+
+# maven files
+.mvn
+target/
+
+# spring files
+Servers/
+RemoveSystemsTempFiles/
